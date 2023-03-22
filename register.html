@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="navbar-search">
+            <form>
+                <input type="text" placeholder="Tìm kiếm...">
+                <button type="submit">Tìm kiếm</button>
+            </form>
+        </div>
+        <div class="navbar-login">
+            <ul>
+                <li><a href="#">Đăng nhập</a></li>
+                <li><a href="#">Đăng ký</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="register">
+
+        <form onsubmit="validateForm()">
+            <h2>Đăng kí tài khoản</h6>
+                <input type="text" id="username" name="username" placeholder="Email Address *">
+                <span id="username-error" style="color: red;"></span>
+                <input type="password" id="password" name="password" placeholder="Password *">
+                <span id="password-error" style="color: red;"></span>
+                <input type="email" id="email" name="email" placeholder="Full name">
+                <div style="display: inline-flex;">
+                    Giới tính:
+                    <input type="radio" name="gender" value="male" id="male" checked>
+                    <label for="male">Nam</label>
+                    <input type="radio" name="gender" value="female" id="female">
+                    <label for="female">Nữ</label>
+                </div>
+                <div style="display: flex; justify-content: space-between;">
+                    <span>Nếu tài khoản đã tồn tại.     </span>
+                    <a href="" style="text-decoration: none;">Đăng nhập</a>
+                </div>
+
+
+                <button type="submit">Đăng ký</button>
+        </form>
+
+    </div>
+    <script>
+        function validateForm() {
+            const usernameInput = document.getElementById('username');
+            const passwordInput = document.getElementById('password');
+            const usernameError = document.getElementById('username-error');
+            const passwordError = document.getElementById('password-error');
+
+            if (usernameInput.value === '') {
+                usernameError.textContent = 'Vui lòng nhập email';
+                return false;
+            } else {
+                usernameError.textContent = '';
+            }
+
+            if (passwordInput.value === '') {
+                passwordError.textContent = 'Vui lòng nhập mật khẩu';
+                return false;
+            } else {
+                passwordError.textContent = '';
+            }
+
+            return true;
+        }
+    </script>
+
+</body>
+
+</html>
