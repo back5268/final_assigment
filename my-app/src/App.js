@@ -1,34 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
 
+import { LoginPage, ShowMovies, SignupPage, ShowDetail } from './components';
+import NavBar from './components/NavBar';
+import { Routes, Route } from 'react-router-dom';
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-
-
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <a className="btn btn-primary"
-          data-bs-toggle="collapse"
-          href="#collapseExample"
-          role="button"
-          aria-expanded="false"
-          aria-controls="collapseExample">
-          Bootstrap button
-        </a>
-      </header>
+      <NavBar />
+      <Routes>
+        <Route path='/' element={<ShowMovies />} />
+        <Route path='/showdetail/:id' element={<ShowDetail />} />
+        <Route path='/login' element={<LoginPage />} />
+        <Route path='/signup' element={<SignupPage />} />
+      </Routes>
     </div>
   );
 }

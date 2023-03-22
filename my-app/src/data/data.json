@@ -1,0 +1,497 @@
+[
+    {
+      "id": 1,
+      "type": "Hành Động",
+      "movies": [
+        {
+          "id": 1,
+          "image": "https://tse2.mm.bing.net/th?id=OIP.h_ht176R9r302vr3arzjZwHaEK&pid=Api&P=0",
+          "title": "One piece movie phim red",
+          "content": "Đây là phần phim thứ mười lăm trong loạt phim điện ảnh của One Piece, dựa trên bộ truyện manga nổi tiếng cùng tên của tác giả Eiichiro Oda. Phim được công bố lần đầu tiên vào ngày 21 tháng 11, 2021 để kỷ niệm sự ra mắt của tập phim thứ 1000 của bộ anime One Piece và sau khi tập phim này được phát sóng, đoạn quảng cáo và áp phích chính thức của phim cũng chính thức được công bố. Phim dự kiến sẽ phát hành vào ngày 6 tháng 8 năm 2022. Bộ phim được giới thiệu sẽ là hành trình xoay quanh một nhân vật nữ mới cùng với Shanks Tóc Đỏ.",
+          "year": "2023",
+          "average": 7,
+          "comments": [
+            {
+              "content": "Hay lắm",
+              "createBy": 1,
+              "evaluate": 8
+            },
+            {
+              "content": "Bình thường",
+              "createBy": 2,
+              "evaluate": 7
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://cdn.cdon.com/media-dynamic/images/product/movie/dvd/image1/avengers_endgame_sefi-47496385-.jpg",
+          "title": "Avenger: End game",
+          "content": "Biệt Đội Siêu Anh Hùng 4: Tàn Cuộc (Avengers 4: Endgame) ra mắt vào tháng 4/2019 sẽ giải quyết triệt để những khúc mắc đã vạch ra suốt 22 bộ phim trước đó của Vụ trụ điện ảnh Marvel (MCU). Hai tháng sau đó, Người Nhện 2 là khởi đầu hoàn toàn mới dành cho MCU. Trong phần trước, tên Titan điên rồ luôn bị ám ảnh về sứ mệnh phải  vũ trụ. Sau khi thu thập đủ 6 viên đá vô cực, Thanos khiến nửa thế giới tan biến thành cát bụi chỉ bằng một cái búng tay. Mở đầu của teaser trailer Endgame, Tony Stark dùng 1 cái mặt nạ của bộ giáp Iron Man để ghi hình lại tin nhắn video gởi cho người vợ Pepper Potts. Anh cho biết là mình đang trên đường trở về Trái đất nhưng không may bị trôi lạc trong vũ trụ, nước và lương thực thì cạn sạch từ 4 ngày trước, oxy thì qua ngày mai cũng hết, mạng sống bây giờ như chỉ mành treo chuông, thần chết chỉ còn cách vài tiếng. Tiếp theo đó là sự xuất hiện của Black Widow, Captain America, Hulk, Hawkeye, Thor, Nebula... những người trong số 50% dân số vũ trụ còn sống sót sau cái búng tay của Thanos. Và ngay lúc này, Black Widow cùng Cap và Hulk phải lên kế hoạch để giải cứu thế giới, à không, là giải cứu vũ trụ, một lần nữa. Avengers phần 4 sẽ là bộ phim cuối cùng có sự góp mặt của một số siêu anh hùng đời đầu của đội Avengers, điển hình là Steve Rogers/Captain America. Ngoài ra, cuối đoạn teaser còn có sự xuất hiện của Ant Man Scott Lang, có thể là Scott đã thoát được khỏi Lượng tử giới và trở về để cùng mọi người đánh bại Thanos chăng?",
+          "year": "2020",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 3,
+          "image": "https://tse4.mm.bing.net/th?id=OIP.ZkOmuqOWNqKDYkMKe2YeAgHaK-&pid=Api&P=0",
+          "title": "Avenger: Infinity war",
+          "content": "Sau chuyến hành trình độc nhất vô nhị không ngừng mở rộng và phát triển vụ trũ điện ảnh Marvel, bộ phim Avengers: Cuộc Chiến Vô Cực sẽ mang đến màn ảnh trận chiến cuối cùng khốc liệt nhất mọi thời đại. Biệt đội Avengers và các đồng minh siêu anh hùng của họ phải chấp nhận hy sinh tất cả để có thể chống lại kẻ thù hùng mạnh Thanos trước tham vọng hủy diệt toàn bộ vũ trụ của hắn.",
+          "year": "2019",
+          "average": 9,
+          "comments": []
+        },
+        {
+          "id": 4,
+          "image": "https://s198.imacdn.com/ff/2023/03/19/fd0b05e8f56c0463_9aa3467df638aeca_33910167923500113.jpg",
+          "title": "NHỮNG NGƯỜI SĂN BÃO",
+          "content": "Một cậu bé tuổi teen chạy trốn để theo bước chân của cha mình, chuyên gia săn bão huyền thoại Bill Brody. ",
+          "year": "2023",
+          "average": 9,
+          "comments": []
+        },
+        {
+          "id": 5,
+          "image": "https://s198.imacdn.com/ff/2023/03/17/66bf89e6e7d1fa9b_284c14fb28734b8e_34109167902656433.jpg",
+          "title": "Star War",
+          "content": " The Bad Batch là một đội đặc biệt được biến đổi gene để có khả năng đặc biệt hơn người bình thường. Đội này chuyên có những nhiệm vụ đặc biệt mà thậm chí Jedi mới có thể làm, thường những nhiệm vụ này trên trình Clone bình thường. Trong phần 7 vừa rồi, The Bad Batch đã xuất hiện để hỗ trợ Anakin và Rex cứu lấy Echo. Tuy nhiên vì khác biệt với phần còn lại nên Echo đã đi cùng The Bad Batch để khác biệt cùng họ.",
+          "year": "2023",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 6,
+          "image": "https://s198.imacdn.com/ff/2023/03/16/9dd13726c1843a9f_ef33453f10ebb2d6_38510167895878263.jpg",
+          "title": "NHỮNG HIỆP SĨ GOTHAM",
+          "content": "Bruce Wayne bị sát hại và con trai nuôi của ông liên minh với con của kẻ thù Batman. Khi thành phố trở nên nguy hiểm hơn, những người con bất hạnh này sẽ thành cứu tinh tiếp theo, được gọi là Hiệp sĩ Gotham.                ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 7,
+          "image": "https://s198.imacdn.com/ff/2023/03/15/432ed365a1d5c2b4_0894653da4edcf4e_1149881678889285616068.jpg",
+          "title": "RENFIELD: TAY SAI CỦA QUỶ",
+          "content": "Renfield phát ốm vì mối quan hệ đồng phụ thuộc kéo dài hàng thế kỷ với Dracula. Với hy vọng tạo dựng một cuộc sống mới ở thế giới con người, tại New Orleans thời hiện đại, cuộc sống của Renfield trở nên phức tạp hơn khi anh phải lòng một cảnh sát giao thông. Mà trong lúc đó, anh ta vẫn phải đối phó với những yêu cầu, đòi hỏi quái lạ từ Dracula - một ông chủ thực sự đến từ địa ngục. ",
+          "year": "2022",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 8,
+          "image": "https://s198.imacdn.com/ff/2023/03/09/7d49d9d214fb1872_0d28ecd529331d51_37401167833633063.jpg",
+          "title": "THÀNH LŨY",
+          "content": "Tám năm trước, Citadel, một cơ quan gián điệp toàn cầu độc lập, đã bị phá hủy bởi một tổ chức mới, Manticore. Với những ký ức của họ bị xóa sổ, các đặc vụ ưu tú Mason Kane và Nadia Sinh hầu như không trốn thoát với cuộc sống của họ. Tám năm sau, đồng nghiệp cũ của Mason, Bernard Orlick, yêu cầu sự giúp đỡ của anh ta để ngăn Manticore thiết lập một trật tự thế giới mới. ",
+          "year": "2023",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 9,
+          "image": "https://s198.imacdn.com/ff/2023/03/07/d493e0edf636795b_7cad8ec0fe84b587_28043167812264523.jpg",
+          "title": "TAY ĐẤM HUYỀN THOẠI 3",
+          "content": "Sau khi thống trị thế giới quyền anh, Adonis Creed đã phát triển mạnh mẽ trong cả sự nghiệp và cuộc sống gia đình. Khi một người bạn thời thơ ấu và cựu thần đồng quyền anh, Damian (Jonathan Majors), tái xuất sau khi thụ án tù dài hạn, anh ta háo hức chứng minh rằng mình xứng đáng được trở lại võ đài. Cuộc chạm trán giữa những người bạn cũ không chỉ là một cuộc chiến trên võ đài thông thường. Để có thể chiến thắng, Adonis phải đặt tương lai của mình lên trên hết để chiến đấu với Damian — một võ sĩ không còn gì để mất. ",
+          "year": "2023",
+          "average": 9,
+          "comments": []
+        },
+        {
+          "id": 10,
+          "image": "https://s198.imacdn.com/ff/2023/02/24/d5748fe1bfe9f154_153da75eff0ac253_1693161677235989216068.jpg",
+          "title": "BÁ VƯƠNG HỌC ĐƯỜNG",
+          "content": "Bá Vương Học Đường – High And Low The Worst X Cross (2022) xoay quanh cuộc chiến giữa hai trường trung học ở khu vực SWORD là trường trung học Oya và trường trung học kỹ thuật Senomon. Hiệu trưởng Trường Trung học Kỹ thuật Senomon xây dựng một “liên minh ba trường” với hai trường khác, Trường Trung học Kamasaka và Trường Trung học Thương mại Ebara, và mở rộng quyền lực của nó nhằm mục tiêu cổ trường Trung học Oya. Những người đàn ông của trường cao Oya bất ngờ bị bắt và tấn công. Liệu Fujio có thể bảo vệ họ bằng chính nắm đấm của mình? Trận chiến quyết định Teppen thật sắp bắt đầu ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        }
+      ]
+    },
+  
+    {
+      "id": 2,
+      "type": "Hoạt Hình",
+      "movies": [
+        {
+          "id": 11,
+          "image": "https://s198.imacdn.com/ff/2023/03/17/6ec0e94080b549f1_bcab77dc947cf31a_38889167903638563.jpg",
+          "title": "CON VOI CỦA NHÀ ẢO THUẬT",
+          "content": "Một cậu bé quyết tâm chấp nhận lời thách thức của nhà vua để thực hiện ba nhiệm vụ bất khả thi nhằm đổi lấy con voi kỳ diệu và cơ hội theo đuổi vận mệnh của mình.",
+          "year": "2023",
+          "average": 9,
+          "comments": []
+        },
+        {
+          "id": 12,
+          "image": "https://s198.imacdn.com/ff/2023/03/18/26aa54c43e5cade5_9f50b82854a2ee43_1126451679123865516068.jpg",
+          "title": "CÚ ÚP RỔ ĐẦU TIÊN",
+          "content": "Hanamichi Sakuragi là một tên côn đồ có quá khứ từng bị các cô gái bỏ rơi. Sau khi đăng ký vào trường trung học Shohoku, Hanamichi bắt đầu quan tâm đến một cô gái tên Haruko, người yêu thích bộ môn bóng rổ, vì vậy cậu ấy đã tham gia vào đội của trường. Nhiều tháng sau, cậu ta và đội thách đấu với nhà vô địch bóng rổ liên trường, trường Sannoh.",
+          "year": "2020",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 13,
+          "image": "https://s198.imacdn.com/ff/2023/03/17/a3e78bd148486ce1_fae87752cada8600_40690167903592993.jpg",
+          "title": "ĐẶC VỤ ELVIS",
+          "content": "Trong phim hoạt hình hài dành cho người lớn này, Elvis đổi bộ jumpsuit lấy ba lô phản lực khi anh tham gia một chương trình gián điệp bí mật nhằm ngăn chặn kẻ ác phá hủy thế giới",
+          "year": "2019",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 14,
+          "image": "https://s198.imacdn.com/ff/2023/03/02/f261e3ef9d94612d_e23358f4c447f70c_57706167774587243.jpg",
+          "title": "THANH GƯƠM DIỆT QUỶ ",
+          "content": "Kimetsu no Yaiba: Katanakaji no Sato-hen / Demon Slayer: Kimetsu no Yaiba ",
+          "year": "2023",
+          "average": 9,
+          "comments": []
+        },
+        {
+          "id": 15,
+          "image": "https://s198.imacdn.com/ff/2023/02/27/637f5e68706025b5_2f35f4826a289b32_1949901677483783316068.jpg",
+          "title": "LÚC ĐÓ TÔI ĐÃ CHUYỂN SINH THÀNH SLIME: MỐI LIÊN KẾT ĐỎ THẲM",
+          "content": "Câu chuyện xoay quanh anh chàng 37 tuổi Mikami Satoru sống một cuộc đời chán chường không mấy vui vẻ… cho đến khi mất mạng và bị biến thành slime! Sau khi đã quen với hình dạng kỳ quặc này, anh chàng bắt đầu chuyến phiêu lưu khám phá thế giới mới với cái tên Rimuru Tempest, cùng các quái vật xây dựng quốc gia riêng Jura Tempest và thay đổi thế giới này. Trong phần phim điện ảnh, Rimuru sẽ đến với quốc gia Razha nằm ở phía Tây Tempest. Rimuru cùng các thuộc hạ vướng vào một âm mưu xoay quanh một cô gái bí ẩn và bắt đầu chuyến phiêu lưu nguy hiểm nhưng cũng vô cùng hồi hộp và phấn khích. ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 16,
+          "image": "https://s198.imacdn.com/ff/2023/02/24/79065a29b2d92f83_349433115354bd10_947591677236675616068.jpg",
+          "title": "NHỮNG CUỘC PHIÊU LƯU KỲ QUẶC CỦA JAMES VÀ MAX",
+          "content": "NHỮNG CUỘC PHIÊU LƯU KỲ QUẶC CỦA JAMES VÀ MAX ",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 17,
+          "image": "https://s198.imacdn.com/ff/2023/02/10/e5616b1a047dd65a_c6ed6dd30cc4ebcf_437961676019364316068.jpg",
+          "title": "BỐ TÔI LÀ THỢ SĂN TIỀN THƯỞNG",
+          "content": " Một thợ săn tiền thưởng xuyên thiên hà đưa nghĩa vụ của người cha lên tầm cao mới khi hai đứa con vô tình bám theo anh ra ngoài vũ trụ rồi phá hỏng nhiệm vụ của anh.",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 18,
+          "image": "https://s198.imacdn.com/ff/2023/02/03/adf8d2f7759d622d_7cc3150d5102bd2f_1693821675411878316068.jpg",
+          "title": "MAKE MY DAY ",
+          "content": "Trên một hành tinh băng giá bị cô lập nhưng hứa hẹn tương lai tươi sáng, các tù nhân buộc phải khai thác nguồn năng lượng hiếm có dẫn đến một khám phá đầy chết chóc không mong đợi. ",
+          "year": "2023",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 19,
+          "image": "https://s198.imacdn.com/ff/2023/01/15/a023fad591901d1f_0abe62d4ff84cd21_450461673797284316068.jpg",
+          "title": "HIGH CARD",
+          "content": "Vương quốc Fourland là một quốc đảo ở Bắc Đại Tây Dương. Ở đất nước này có 52 X-Playing Cards, được coi là nguồn gốc của các đấu thủ bài. Một lá bài có khả năng siêu nhiên độc nhất có thể ban tặng khả năng của nó cho một người đủ điều kiện. ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 20,
+          "image": "https://s198.imacdn.com/ff/2023/01/12/e404fcdf6dfb2ccb_b2721e0d1c2e1fc9_1256701673518786616068.jpg",
+          "title": "KUNG FU PANDA: HIỆP SĨ RỒNG (PHẦN 2)",
+          "content": "Po tốt bụng cùng các Hiệp Sĩ Rồng chu du khắp thế giới để tìm những vũ khí Tianshang huyền thoại. Nhưng liệu họ có thể nhanh chân hơn các thế lực xấu xa ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        }
+      ]
+    },
+  
+    {
+      "id": 3,
+      "type": "Tình cảm",
+      "movies": [
+        {
+          "id": 21,
+          "image": "https://s198.imacdn.com/ff/2023/03/22/0793f3a461e4d4ef_9a9bcede937d8a23_19664167944978193.jpg",
+          "title": "XIN CHÀO, BẠN TRAI CỦA TÔI",
+          "content": "Lục Phần Phần người đang ở dưới đáy cuộc đời, có tài năng thiên bẩm về hương vị và mơ ước trở thành bậc thầy về rượu, nhưng cô chỉ có thể làm nhân viên quảng cáo rượu trong siêu thị. Tình cờ, cô cứu được Hứa Minh Thần, chủ tịch của An Đạt Group. Một nụ hôn bất ngờ đã mở ra cánh cửa định mệnh cho mối quan hệ giữa hai người - nụ hôn ấy trở thành  duy nhất cho căn bệnh kỳ lạ của Minh Thần. Để chữa khỏi bệnh, Minh Thần đã tiếp cận và theo đuổi Lục Phần Phần bằng nhiều cách khác nhau. Minh Thần dần dần từ chán ghét trở nên thích thú ",
+          "year": "2021",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 22,
+          "image": "https://s198.imacdn.com/ff/2023/03/21/addd79416d2da5da_e394455fd3638d5b_25097167939413093.jpg",
+          "title": "YÊU LÀ ĐAU",
+          "content": "Yêu Là Đau - Love Hurts xoay quanh Venika, một nữ doanh nhân, triệu phú trẻ tuổi. Sau đám cưới hoành tráng, Venika nhận được một tấm thiệp chúc mừng với bản sao giấy chứng nhận kết hôn.... Bộ Phim còn được biết đến với cái Tên Rak Rai VietSub, hoặc Tình Yêu Tồi Tệ ",
+          "year": "2022",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 23,
+          "image": "https://s198.imacdn.com/ff/2023/03/19/2b185829570ec360_073a5c07251543a5_37774167921955363.jpg",
+          "title": "AI ĐÃ ĐÁNH CẮP NỤ HÔN CỦA TÔI",
+          "content": "AI ĐÃ ĐÁNH CẮP NỤ HÔN CỦA TÔI",
+          "year": "2023",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 24,
+          "image": "https://s198.imacdn.com/ff/2023/03/15/1acb38daf0e62da3_2ae56915ee1534cc_25670167887812173.jpg",
+          "title": "KHOA HỌC VỀ TÌNH YÊU",
+          "content": " vậy mà sinh viên ngành sinh vật Tô Trinh Trinh chưa bao giờ có thể thoát ế. Cho đến một ngày, một loạt cuộc gặp gỡ kỳ lạ, lãng mạn và kỳ diệu giữa Tô Trinh Trinh và  Tiêu Vũ Hà đã diễn ra. Do bốc đồng, Trinh Trinh đã đến gặp Vũ Hà và ttỏ tình ",
+          "year": "2023",
+          "average": 9,
+          "comments": []
+        },
+        {
+          "id": 25,
+          "image": "https://s198.imacdn.com/ff/2023/03/10/47a21bd3c69ac119_a68a033922f13884_29621167844017743.jpg",
+          "title": "VĨNH AN MỘNG",
+          "content": " Vì vậy, Tam tiểu thư của Thẩm gia, viên ngọc quý nhất của gia tộc, lại bị mọi người ruồng bỏ với đứa em trai bệnh tật trên tay. Không còn lựa chọn nào khác, cô mở một cửa hàng mỹ phẩm ở Trường An. Nhưng trong mắt tất cả mọi người, đặc biệt là những người thân của cô ấy, cô ấy chẳng là gì ngoài một bông hoa quyến rũ mà bất kỳ người đàn ông nào cũng có thể tùy ý hái. Đi ngang qua Baixiang Pavilion của cô ấy, người thừa kế của Grand Duchy of Zhen",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 26,
+          "image": "https://s198.imacdn.com/ff/2023/03/09/da9aa42087eb5b21_1843196287e18c2b_19978167833316993.jpg",
+          "title": "SẮC MÀU PHÁO HOA NHÂN GIAN",
+          "content": "Để thu hồi một khoản vay không tốt, cô đã gặp gỡ lần đầu với nghệ nhân truyền thống Jing Chen. Một người là một nhân viên văn phòng bị áp lực bởi nhiệm vụ thu nợ, một người không có xe hơi, căn hộ và tiền bạc, nhưng sống ở nông thôn, được bao quanh bởi núi non và sông xanh lạnh. Hai người không hợp nhau, họ đối đầu nhau như một cặp oan gia khó hiểu. Vào ngày đông chí, sinh nhật thứ 28, cô cảm thấy bị bỏ rơi bởi bố mẹ và cô đơn bởi đồng nghiệp. ",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 27,
+          "image": "https://s198.imacdn.com/ff/2023/03/10/ffd342efa8200d67_6c3e7ac342b1b1d1_29637167841694183.jpg",
+          "title": "ANH ẤY VƯỢT NÚI SÔNG MÀ ĐẾN",
+          "content": "Anh Ấy Vượt Núi Sông Mà Đến - I Belonged To Your World kể về Qi Yue, một cô gái trẻ không có tham vọng. Một ngày nọ, cô bất ngờ nhận được lời cảnh báo về cuộc sống tương lai của mình từ con trai Qi Shuo. ",
+          "year": "2023",
+          "average": 5,
+          "comments": []
+        },
+        {
+          "id": 28,
+          "image": "https://s198.imacdn.com/ff/2023/03/05/c2bb048f36ae2ceb_7418fe4bc8ed2981_34980167797403283.jpg",
+          "title": "LUẬT SƯ LY HÔN SHIN",
+          "content": "Luật Sư Ly Hôn Shin Sung Han - Divorce Attorney Shin - Sacred Divorce kể về Shin Sung-Han (Cho Seung-Woo), người theo học chuyên ngành piano và trở thành giáo sư tại một trường đại học âm nhạc ở Đức ",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 29,
+          "image": "https://s198.imacdn.com/ff/2023/03/02/68ec8a7beed955df_4e60c36634a9b474_50913167769333463.jpg",
+          "title": "TAXI MA QUÁI",
+          "content": "Seo Youngmin là một tài xế taxi trẻ tuổi, cậu thừa hưởng công việc này sau khi mẹ cậu qua đời trong một vụ tai nạn. Công việc kinh doanh của Youngmin khá thuận lợi cho tới khi tình cờ cậu đưa đón một nữ hành khách tên Ji Hyun ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 30,
+          "image": "https://s198.imacdn.com/ff/2023/03/01/3c63c49d572bcde6_cfecd66c1509a468_38903167766764663.jpg",
+          "title": "THỜI NIÊN THIẾU CỦA TĂNG THIẾU NIÊN",
+          "content": "Bộ phim là một câu chuyện ấm áp về tình thân, tình bạn và sự trưởng thành của bốn gia đình ba thế hệ trong một tứ hợp viện ở Bắc Kinh vào những năm từ 1997 đến 2001. Hai thiếu niên thiếu nữ trung học Tạ Kiều, Tần Xuyên cùng bạn bè và người thân của mình đã trải qua những việc lớn nhỏ trong thời đại này, đối diện với những câu ",
+          "year": "2023",
+          "average": 8,
+          "comments": []
+        }
+      ]
+    },
+  
+    {
+      "id": 4,
+      "type": "Kinh Dị",
+      "movies": [
+        {
+          "id": 31,
+          "image": "https://s198.imacdn.com/ff/2023/03/21/0f3c98ae94df5de4_1e0c1ffdfd2b5fe3_35027167938449253.jpg",
+          "title": "NHỮNG ĐỨA CON CỦA NGÔ",
+          "content": "Một cô bé mười hai tuổi mắc bệnh tâm thần ở một thị trấn nhỏ ở Nebraska chiêu mộ tất cả những đứa trẻ khác và nổi cơn thịnh nộ đẫm máu, giết chết những người lớn đồi bại và bất kỳ ai chống lại cô. Một học sinh trung học thông minh không tuân theo kế hoạch là",
+          "year": "2020",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 32,
+          "image": "https://s198.imacdn.com/ff/2023/03/20/fd1e93c9ba7e721e_8965de096b16c5b5_38231167931675383.jpg",
+          "title": "GẤU POOH: MÁU VÀ MẬT",
+          "content": "Christopher Robin chuẩn bị vào đại học và anh ấy đã bỏ rơi những người bạn cũ của mình, Pooh và Piglet, điều này sau đó dẫn đến việc bộ đôi ôm lấy những con quái vật bên trong của họ.",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 33,
+          "image": "https://s198.imacdn.com/ff/2023/03/15/432ed365a1d5c2b4_0894653da4edcf4e_1149881678889285616068.jpg",
+          "title": "RENFIELD: TAY SAI CỦA QUỶ",
+          "content": "Renfield phát ốm vì mối quan hệ đồng phụ thuộc kéo dài hàng thế kỷ với Dracula. Với hy vọng tạo dựng một cuộc sống mới ở thế giới con người, tại New Orleans thời hiện đại, cuộc sống của Renfield trở nên phức tạp hơn khi anh phải lòng một cảnh sát giao thông. Mà trong lúc đó, anh ta vẫn phải đối phó với những yêu cầu ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 34,
+          "image": "https://s198.imacdn.com/ff/2023/03/08/bd306ab91a1f137e_3548ae6f59ccb536_34839167824981093.jpg",
+          "title": "MẤT TÍCH",
+          "content": "Những người từng tạo ra SEARCHING đã trở lại với MISSING ! “Missing” bắt đầu khi Grace (Nia Long) cùng bạn trai Kevin Lin (Ken Leung) đi du lịch Colombia. Sau vài ngày không liên lạc, cô con gái Ali (Storm Reid) bàng hoàng nhận ra mẹ mình đã mất tích một cách bí ẩn. Hết cách, Ali đành phải cố đăng nhập vào các tài khoản liên lạc hay mạng xã hộ ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 35,
+          "image": "https://s198.imacdn.com/ff/2023/02/15/54db46ba37fce294_2620e3c65ad41f1c_578961676440559616068.jpg",
+          "title": "BỂ BƠI VÔ CỰC",
+          "content": "Khi ở tại một khu nghỉ dưỡng trên đảo biệt lập, James và Em đang tận hưởng kỳ nghỉ hoàn hảo với những bãi biển hoang sơ, đội ngũ nhân viên đặc biệt và đắm mình dưới ánh mặt trời. Nhưng được hướng dẫn bởi Gabi quyến rũ và bí ẩn, họ phiêu lưu ra ngoài khuôn viên khu nghỉ mát và thấy mình đang ở trong một nền văn hóa đầy bạo lực ",
+          "year": "2023",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 36,
+          "image": "https://s198.imacdn.com/ff/2023/01/31/a00d45a612a92dab_f495a5e00323030c_26001167518386213816.jpg",
+          "title": "CHUỖI VÒNG QUỶ ÁM",
+          "content": "Chuỗi Vòng Quỷ Ám – Manee Phayabat xoay quanh tam giác tình yêu giữa Mookda, Pailin và Pruek. Mookda, Pailin cùng yêu Pruek nhưng Pruek chọn đến với Pailin. Điều này khiến Mookda chìm trong đau khổ nên đã tìm đến với ma thuật hắc ám. Về phía Pruek, anh ta vô tình bị điều khiển bởi bùa chú của pháp sư nên đã dùng con dao găm để giết chết Mookda. ",
+          "year": "2023",
+          "average": 9,
+          "comments": []
+        },
+        {
+          "id": 37,
+          "image": "https://s198.imacdn.com/ff/2023/02/11/c16a25fc4c355905_184df2b1edaca549_329861676114939616068.jpg",
+          "title": "VỆ NỮ",
+          "content": "Lấy bối cảnh  ở vùng ngoại ô của Madrid, tập trung vào tòa nhà bị nguyền rủa ở Villaverde Sur.Vũ công Lucía, đang chạy trốn với một đống thuốc và bị bọn cướp săn lùng, trú ẩn trong một khu chung cư cùng với chị gái Rocío và cháu gái Alba rồi phát hiện ra rằng các thế lực siêu nhiên độc ác đang chơi trong tòa nhà. ",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 38,
+          "image": "https://s198.imacdn.com/ff/2023/02/03/0bc25656f14c8381_2a2d8ffa34f705f7_1559851675412347516068.jpg",
+          "title": "SÓI VIKING",
+          "content": " Sau khi chứng kiến vụ án mạng kỳ dị tại một bữa tiệc ở thị trấn mới của mình, cô nàng tuổi teen nọ bắt đầu nhìn thấy những ảo ảnh kỳ lạ và có những ham muốn kỳ quái.",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 39,
+          "image": "https://s198.imacdn.com/ff/2023/01/13/57dc1405be6d49e6_09a8e575a37cf59b_1459861673608087916068.jpg",
+          "title": "M3GAN",
+          "content": " M3GAN là một điều kỳ diệu của trí tuệ nhân tạo, một con búp bê sống động như thật được lập trình để trở thành người bạn đồng hành tốt nhất của trẻ và cha mẹ. Được thiết kế bởi Gemma, một kỹ sư thiết kế người máy xuất sắc, M3GAN có thể nghe, xem và học hỏi trong suốt quá trình nó đóng vai trò là người bạn và người thầy, người đồng hành và người bảo vệ cho cả gia đình. Khi Gemma bất đắc dĩ trở thành người chăm sóc cho cô cháu gái 8 tuổi của mình, cô quyết định đưa cho cô bé một nguyên mẫu M3GAN, một quyết định dẫn đến một kết quả vượt ngoài mọi sự dự tính của cô.",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 40,
+          "image": "https://s198.imacdn.com/ff/2023/01/05/9509656ee4aaa25a_37815887ac8811ca_285411672908878716068.jpg",
+          "title": "MA CÂY TRỖI DẬY",
+          "content": "Hai chị em tìm thấy một cuốn sách cổ sinh ra những con quỷ khát máu chạy điên cuồng trong một tòa nhà chung cư ở Los Angeles và đẩy họ vào một cuộc chiến sinh tồn nguyên thủy khi họ đối mặt với phiên bản gia đình ác mộng nhất có thể tưởng tượng được. ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        }
+      ]
+    },
+    
+    {
+      "id": 5,
+      "type": "Khoa học nghệ thuật",
+      "movies": [
+        {
+          "id": 41,
+          "image": "https://s198.imacdn.com/ff/2023/02/16/6f3122ac7c8d5e5b_5578b3f80539cf92_432301676558220916068.jpg",
+          "title": "NGƯỜI HÙNG TIA CHỚP",
+          "content": "Phim dựa theo một nhân vật của DC Comics, trong 1 thí nghiệm tại Starling City, anh chàng Barry đã vô tình bị ảnh hưởng bởi vụ nổ trong thí nghiệm khiến anh hôm mê bất tỉnh nhiều ngày trong bệnh viện. Khi tỉnh dậy, anh ta đã phát hiện ra rằng mình có khả năng đặc biệt đó là tăng tốc độ cơ thể và di chuyển siêu nhanh. Kể từ đây, huyền thoại về người anh hùng Flash bắt đầu.",
+          "year": "2021",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 42,
+          "image": "https://s198.imacdn.com/ff/2023/01/23/efa4a5a36f172298_1610fe43b2859585_1797391674455534116068.jpg",
+          "title": "JUNG_E",
+          "content": "Ở tương lai gần hậu tận thế, một nhà nghiên cứu tại phòng thí nghiệm AI dẫn đầu nỗ lực chấm dứt nội chiến bằng cách nhân bản bộ não của một người lính anh hùng: mẹ của bà.",
+          "year": "2020",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 43,
+          "image": "https://s198.imacdn.com/ff/2022/12/03/919f8bae1d65d143_19e6765f8d845781_38033167006491163816.jpg",
+          "title": "PHÙ THUỶ WILLOW ",
+          "content": "20 năm sau khi đánh bại nữ hoàng độc ác Bavmorda, thầy phù thủy Willow Ufgood dẫn đầu một nhóm những kẻ lạc loài trong một nhiệm vụ giải cứu nguy hiểm vào một nơi chưa biết.",
+          "year": "2020",
+          "average": 9,
+          "comments": []
+        },
+        {
+          "id": 44,
+          "image": "https://s198.imacdn.com/ff/2022/09/07/5aa74b11616d30f8_59692984e4b40340_353241662525894716068.jpg",
+          "title": "DÙNG TIÊN KHÔN NGOAN",
+          "content": "Các cố vấn tài chính chia sẻ nhiều mẹo đơn giản để chi tiêu ít hơn và tiết kiệm nhiều hơn với những người muốn kiểm soát tiền bạc và đạt được mục tiêu của họ. ",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 45,
+          "image": "https://s198.imacdn.com/ff/2022/08/27/5b0c0a964558fdfe_5168363f07b71f0a_340081661575474816068.jpg",
+          "title": "AVATAR: THẾ THÂN",
+          "content": "ộ phim Avatar là câu chuyện về người anh hùng  Jake Sully - một cựu sĩ quan thủy quân lục chiến bị liệt nửa thân. Anh được chọn để tham gia vào chương trình cấy gien với người ngoài hành tinh Na'vi nhằm tạo ra một giống loài mới có thể hít thở không khí tại hành tinh Pandora. Giống người mới này được gọi là Avatar. Trong phim, sau khi đã trở thành một Avatar, Jake có nhiệm vụ đi tìm hiều và nghiên cứu hành tinh Pandora. Những thông t ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 46,
+          "image": "https://s198.imacdn.com/ff/2022/07/26/f4e944bfa94ca94d_42935dfb794e67ef_404551658819979716068.jpg",
+          "title": "THẾ GIỚI KHỦNG LONG: TRẠI KỶ PHẤN TRẮNG ",
+          "content": "Tình bạn. Tình yêu. Sự phản bội. Sinh tồn. Tương lai đang bị đe dọa khi nhóm bạn tuổi teen đối mặt với mùa cuối hoành tráng cùng các lựa chọn khó khăn và tiết lộ bất ngờ. ",
+          "year": "2023",
+          "average": 6,
+          "comments": []
+        },
+        {
+          "id": 47,
+          "image": "https://s198.imacdn.com/ff/2022/06/29/a767850042d444a8_068f59583c6b0a87_305281656497806116068.jpg",
+          "title": "ĐÔI BẠN ĐẠI CHIẾN NGƯỜI NGOÀI HÀNH TINH",
+          "content": "Khi cuộc tấn công của người ngoài hành tinh làm gián đoạn bữa tiệc độc thân nọ, đôi bạn thời thơ ấu tái hợp với tư cách là bộ đôi bắn laze bá đạo năm nào để chống trả. ",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 48,
+          "image": "https://s198.imacdn.com/ff/2022/06/06/f2bcf1fcb2317343_608c71d4d40a43af_257411654533233716068.jpg",
+          "title": "CẮT RỜI KÝ ỨC ",
+          "content": " Nội dung phim xoay quanh câu chuyện của Mark và những người bạn, họ đều là nhân viên văn phòng và đang có hiện tượng ký ức về công việc, cuộc sống cá nhân bị chia cắt. Ngày nọ, một người đồng nghiệp bí ẩn xuất hiện thì cũng là lúc Mark quyết định sẽ thực hiện hành trình khám phá sự thật về công việc mình đang làm.",
+          "year": "2023",
+          "average": 8,
+          "comments": []
+        },
+        {
+          "id": 49,
+          "image": "https://s198.imacdn.com/ff/2022/05/15/e1b0f9b20a489fff_e49eb8038691941a_304031652603044116068.jpg",
+          "title": "HÀNH TINH THỜI TIỀN SỬ",
+          "content": " Trải nghiệm những điều kỳ diệu của thế giới chúng ta chưa từng có với loạt phim tài liệu này của Jon Fevreau và các nhà sản xuất của Planet Earth. Du hành trở về 66 triệu năm khi những con khủng long oai phong và những sinh vật phi thường lang thang trên các vùng đất, biển và bầu trời",
+          "year": "2023",
+          "average": 7,
+          "comments": []
+        },
+        {
+          "id": 50,
+          "image": "https://s198.imacdn.com/ff/2022/05/09/61bba5f6edaaf909_3970ddf86fc539df_440031652099636316068.jpg",
+          "title": "VỎ BỌC MA: SAC_2045",
+          "content": "Năm 2045, Kusanagi Motoko và Đội 9 trở lại để chiến đấu với một mối đe dọa mới nguy hiểm. Đây là bản cắt từ mùa đầu tiên của SAC_2045, có độ dài ngang phim điện ảnh. ",
+          "year": "2023",
+          "average": 9,
+          "comments": []
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "email": "bachtv150902@gmail.com",
+        "password": "123456",
+        "name": "Tạ Văn Bách"  
+    }, 
+    {
+        "id": 2,
+        "email": "letrantiendong@gmail.com",
+        "password": "123456",
+        "name": "Lê Trần Tiến Đông"
+    }
+]
