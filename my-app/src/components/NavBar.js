@@ -21,9 +21,14 @@ const Authentication = () => {
         )
     } else {
         return (
-            <Link to='/login'>
-                <button className="btn btn-outline-info">Login</button>
-            </Link>
+            <div>
+                <Link to='/login' style={{ marginRight: '12px' }} >
+                    <button className="btn btn-outline-info">Login</button>
+                </Link>
+                <Link to='/signup'>
+                    <button className="btn btn-outline-info">Signup</button>
+                </Link>
+            </div>
         )
     }
 };

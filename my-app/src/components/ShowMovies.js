@@ -1,6 +1,5 @@
-import { useState, useEffect, useContext } from 'react';
+import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { UserContext } from '../UserContext';
 import './ShowMovies.css';
 
 const Movies = ({ movies }) => {
@@ -31,7 +30,6 @@ const ShowMovies = () => {
     const jsonData = localStorage.getItem('dataJson');
     let data = JSON.parse(jsonData);
 
-    const { moviesData, setMoviesData } = useContext(UserContext);
     const [categorys, setCategorys] = useState(data);
     const [movies, setMovies] = useState([]);
     const [moviesByCategory, setMoviesByCategory] = useState([]);
@@ -61,20 +59,6 @@ const ShowMovies = () => {
             setMoviesByCategory(movies);
         };
     }, [currentCategory]);
-
-    useEffect(() => {
-        let movies = [];
-        categorys.map(c => {
-            c.movies.forEach(m => {
-                m.type = c.type;
-                m.average = (m.comments.reduce((average, c) => (average += c.evaluate), 0)) / (m.comments.length);
-            });
-            movies = movies.concat(c.movies);
-        });
-        setMoviesData(movies);
-        // localStorage.setItem('userJson', JSON.stringify(user));
-        // localStorage.setItem('dataJson', JSON.stringify(data));
-    }, []);
 
     const handleSearch = (e) => {
         let value = e.target.value;

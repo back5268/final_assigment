@@ -20,13 +20,25 @@ const ShowDetail = () => {
     let data = JSON.parse(localStorage.getItem('dataJson'));
 
     const { id } = useParams();
-    const { user, moviesData } = useContext(UserContext);
+    const { user } = useContext(UserContext);
+    const [moviesData, setMoviesData] = useState(() => {
+        let movies = [];
+        data.map(c => {
+            c.movies.forEach(m => {
+                m.type = c.type;
+                m.average = (m.comments.reduce((average, c) => (average += c.evaluate), 0)) / (m.comments.length);
+            });
+            movies = movies.concat(c.movies);
+        });
+        return movies;
+    });
     const [movie, setMovie] = useState({});
     const [comments, setComments] = useState([]);
     const [users, setUsers] = useState(userData);
 
     const [comment, setComment] = useState('');
     const [evaluate, setEvaluate] = useState(0);
+    const [changeComment, setChangeComment] = useState(true);
 
     useEffect(() => {
         let comments = [];
@@ -42,7 +54,7 @@ const ShowDetail = () => {
         });
         setMovie(movie);
         setComments(comments);
-    }, [id]);
+    }, [changeComment]);
 
     const handleComment = () => {
         if (user.id) {
@@ -53,9 +65,12 @@ const ShowDetail = () => {
             };
             let indexCategory = data.findIndex(d => d.type === movie.type);
             let indexMovie = data[indexCategory].movies.findIndex(m => m.id == id);
-            let indexComment = data[indexCategory].movies[indexMovie].comments.findIndex(c => c.createBy === user.id )
+            let indexComment = data[indexCategory].movies[indexMovie].comments.findIndex(c => c.createBy === user.id)
             if (indexComment >= 0) data[indexCategory].movies[indexMovie].comments[indexComment] = newComment;
             else data[indexCategory].movies[indexMovie].comments.push(newComment);
+
+            if (changeComment) setChangeComment(false)
+            else setChangeComment(true);
             alert('Đánh giá thành công!')
             localStorage.setItem('dataJson', JSON.stringify(data));
         } else {

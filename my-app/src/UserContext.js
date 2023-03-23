@@ -3,10 +3,9 @@ const UserContext = createContext();
 
 function UserProvider({ children }) {
     const [ user, setUser ] = useState({});
-    const [ moviesData, setMoviesData ] = useState([]);   
 
     return (
-        <UserContext.Provider value={{ user, setUser, moviesData, setMoviesData }}>
+        <UserContext.Provider value={{ user, setUser }}>
             {children}
         </UserContext.Provider>
     )
