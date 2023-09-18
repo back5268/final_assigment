@@ -28,6 +28,7 @@ const Movies = ({ movies }) => {
 
 const ShowMovies = () => {
     const jsonData = localStorage.getItem('dataJson');
+    console.log(jsonData);
     let data = JSON.parse(jsonData);
 
     const [categorys, setCategorys] = useState(data);
